@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Pink LoadingProgress",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Pink LoadingProgress",
+        "cliName": "Pink LoadingProgress"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Pink-LoadingProgress/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Pink-LoadingProgress/issues",
+    "description": "Pink LoadingProgress"
+}
